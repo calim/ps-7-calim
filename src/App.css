@@ -20,6 +20,18 @@
 
 .App-link {
   color: #61dafb;
+  padding: 150px;
+  border-top: 50px;
+}
+
+img {
+  width: 250px;
+}
+
+a {
+  padding: 50px;
+  padding-top: 50px;
+  
 }
 
 @keyframes App-logo-spin {
