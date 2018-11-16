@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/calim/ps-7-calim/precache-manifest.98bce5aaef22513ae8d869f0ac92b866.js"
+  "/ps-7-calim/precache-manifest.c81d6be6cc34c3db8c8debdc40044530.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/calim/ps-7-calim/index.html", {
+workbox.routing.registerNavigationRoute("/ps-7-calim/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

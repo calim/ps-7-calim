@@ -1,15 +1,15 @@
 {
-  "main.css": "/calim/ps-7-calim/static/css/main.3a948579.chunk.css",
-  "main.js": "/calim/ps-7-calim/static/js/main.084133cc.chunk.js",
-  "main.js.map": "/calim/ps-7-calim/static/js/main.084133cc.chunk.js.map",
-  "static/css/1.dc8db021.chunk.css": "/calim/ps-7-calim/static/css/1.dc8db021.chunk.css",
-  "static/js/1.3314f896.chunk.js": "/calim/ps-7-calim/static/js/1.3314f896.chunk.js",
-  "static/js/1.3314f896.chunk.js.map": "/calim/ps-7-calim/static/js/1.3314f896.chunk.js.map",
-  "runtime~main.js": "/calim/ps-7-calim/static/js/runtime~main.b64d705f.js",
-  "runtime~main.js.map": "/calim/ps-7-calim/static/js/runtime~main.b64d705f.js.map",
-  "static/css/1.dc8db021.chunk.css.map": "/calim/ps-7-calim/static/css/1.dc8db021.chunk.css.map",
-  "static/css/main.3a948579.chunk.css.map": "/calim/ps-7-calim/static/css/main.3a948579.chunk.css.map",
-  "index.html": "/calim/ps-7-calim/index.html",
-  "precache-manifest.98bce5aaef22513ae8d869f0ac92b866.js": "/calim/ps-7-calim/precache-manifest.98bce5aaef22513ae8d869f0ac92b866.js",
-  "service-worker.js": "/calim/ps-7-calim/service-worker.js"
+  "main.css": "/ps-7-calim/static/css/main.3a948579.chunk.css",
+  "main.js": "/ps-7-calim/static/js/main.7e9ef0d1.chunk.js",
+  "main.js.map": "/ps-7-calim/static/js/main.7e9ef0d1.chunk.js.map",
+  "static/css/1.dc8db021.chunk.css": "/ps-7-calim/static/css/1.dc8db021.chunk.css",
+  "static/js/1.3314f896.chunk.js": "/ps-7-calim/static/js/1.3314f896.chunk.js",
+  "static/js/1.3314f896.chunk.js.map": "/ps-7-calim/static/js/1.3314f896.chunk.js.map",
+  "runtime~main.js": "/ps-7-calim/static/js/runtime~main.be3c209e.js",
+  "runtime~main.js.map": "/ps-7-calim/static/js/runtime~main.be3c209e.js.map",
+  "static/css/1.dc8db021.chunk.css.map": "/ps-7-calim/static/css/1.dc8db021.chunk.css.map",
+  "static/css/main.3a948579.chunk.css.map": "/ps-7-calim/static/css/main.3a948579.chunk.css.map",
+  "index.html": "/ps-7-calim/index.html",
+  "precache-manifest.c81d6be6cc34c3db8c8debdc40044530.js": "/ps-7-calim/precache-manifest.c81d6be6cc34c3db8c8debdc40044530.js",
+  "service-worker.js": "/ps-7-calim/service-worker.js"
 }
